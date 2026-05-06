@@ -3,5 +3,3 @@ Code and examples to use CMAP for data visualization
 Krista Longnecker 5 May 2026
 
 See the script ```plotBIOSSCOPE_examples.ipynb```. Note that this script is written in Python, but CMAP also supports R and MATLAB access to the database.
-
-
